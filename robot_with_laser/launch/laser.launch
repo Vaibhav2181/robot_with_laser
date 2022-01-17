@@ -13,7 +13,7 @@
   
   <arg 
    name="rvizconfig" 
-   default="$(find robot_with_laser)/rviz/urdf.rviz"
+   default="$(find robot_with_laser)/urdf.rviz"
   />
 
   <param 
